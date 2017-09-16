@@ -1,3 +1,10 @@
+android push対応のためfork
+loopback2系でgcmのkeyを使いつつ、payloadはfcmの仕様で送るように改造したもの。
+
+(参考 https://github.com/CureApp/nicobye/pull/482)
+
+
+
 # LoopBack Push Notification Component
 
 ![StrongLoop Labs](http://docs.strongloop.com/download/thumbnails/5310165/StrongLoop%20Labs%20Logo%20Cropped.png "StrongLoop Labs")
